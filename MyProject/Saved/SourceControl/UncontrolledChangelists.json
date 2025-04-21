@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Unreal project/Crash-Circuit/MyProject/Content/MySavedGame.uasset",
+				"E:/Unreal project/Crash-Circuit/MyProject/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/C4/K5VJMMJKTQMV18EL10U786.uasset",
+				"E:/Unreal project/Crash-Circuit/MyProject/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset",
+				"E:/Unreal project/Crash-Circuit/MyProject/Content/StartFinishLine.uasset",
+				"E:/Unreal project/Crash-Circuit/MyProject/Content/LapTimer.uasset",
 				"C:/Users/shiva/OneDrive/Documents/GitHub/Crash-Circuit/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
