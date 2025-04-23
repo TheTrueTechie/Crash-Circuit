@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Shuban/Documents/Crash-Circuit/MyProject/Content/StartFinishLine.uasset",
+				"C:/Users/Shuban/Documents/Crash-Circuit/MyProject/Content/AmericanCaptain-MdEY.uasset",
+				"C:/Users/Shuban/Documents/Crash-Circuit/MyProject/Content/LapTimer.uasset",
+				"C:/Users/Shuban/Documents/Crash-Circuit/MyProject/Content/AmericanCaptain-MdEY_Font.uasset",
+				"C:/Users/Shuban/Documents/Crash-Circuit/MyProject/Content/MedalDisplay.uasset",
 				"E:/Unreal project/Crash-Circuit/MyProject/Content/MySavedGame.uasset",
 				"E:/Unreal project/Crash-Circuit/MyProject/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/C4/K5VJMMJKTQMV18EL10U786.uasset",
 				"E:/Unreal project/Crash-Circuit/MyProject/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset",
